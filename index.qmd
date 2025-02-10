@@ -1,0 +1,50 @@
+---
+title: "Welcome to My Website"
+author: "maihongxu"
+date: "2025-01-24"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website.  ---
+title: "Welcome to My Website"
+author: "徐迈虹"
+date: "2025-01-24"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!
+Welcome to my Quarto website. Here you can learn more about my education, work experiences, projects, and skills.
+
+## About Me
+I am currently pursuing my master's degree in Business Analytics at Boston University, after completing my undergraduate studies at the University of South Carolina and Boston University. My studies focus on quantitative analysis, decision-making, and marketing analytics.
+
+## Projects
+### "Lobster Land" Winter Carnival
+*During the Pandemic*  
+- Analyzed event data using Tableau and designed interactive dashboards.
+- Applied logistic regression to extract key insights for marketing strategies and brand optimization.
+
+### Airbnb Pricing Prediction for New Orleans
+*Fall 2024*  
+- Built a multiple regression model to predict Airbnb listing prices based on property characteristics.
+- Optimized the model for accurate pricing strategies, achieving an R² of 0.5069.
+
+## Skills & Tools
+- **Programming**: SQL, Python, R, Tableau, Power BI, Excel (VBA, VLOOKUP, INDEX)
+- **Data Analysis**: Logistic Regression, Statistical Modeling, Data Visualization
+- **Business Skills**: Market Analysis, Brand Optimization, Marketing Strategy
+
+## Contact
+Feel free to reach out to me for collaboration or inquiries:
+- Email: [xumaihong11@126.com](mailto:xumaihong11@126.com)
+- Phone: +86 13691397181
+
+## References
+- [Quarto Documentation](https://quarto.org/docs/)
+- [Markdown Guide](https://www.markdownguide.org/)
+

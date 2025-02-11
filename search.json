@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to my Quarto website. — title: “Welcome to My Website” author: “徐迈虹” date: “2025-01-24” format: html: theme: journal toc: true"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "About Me",
+    "text": "About Me\nI am currently pursuing my master’s degree in Business Analytics at Boston University, after completing my undergraduate studies at the University of South Carolina and Boston University. My studies focus on quantitative analysis, decision-making, and marketing analytics."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Welcome to My Website",
+    "section": "Projects",
+    "text": "Projects\n\n“Lobster Land” Winter Carnival\nDuring the Pandemic\n- Analyzed event data using Tableau and designed interactive dashboards. - Applied logistic regression to extract key insights for marketing strategies and brand optimization.\n\n\nAirbnb Pricing Prediction for New Orleans\nFall 2024\n- Built a multiple regression model to predict Airbnb listing prices based on property characteristics. - Optimized the model for accurate pricing strategies, achieving an R² of 0.5069."
+  },
+  {
+    "objectID": "index.html#skills-tools",
+    "href": "index.html#skills-tools",
+    "title": "Welcome to My Website",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\n\nProgramming: SQL, Python, R, Tableau, Power BI, Excel (VBA, VLOOKUP, INDEX)\nData Analysis: Logistic Regression, Statistical Modeling, Data Visualization\nBusiness Skills: Market Analysis, Brand Optimization, Marketing Strategy"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome to My Website",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out to me for collaboration or inquiries: - Email: xumaihong11@126.com - Phone: +86 13691397181"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Welcome to My Website",
+    "section": "References",
+    "text": "References\n\nQuarto Documentation\nMarkdown Guide"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
